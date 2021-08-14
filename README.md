@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahmud Hasan
 - 👀 I’m interested in Software Development & Networking
 - 🌱 I’m currently learning JDBC & CCNA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with a Software Developer or Network Engineer
 - 📫 How to reach me hasan156813@gmail.com
 
 <!---
